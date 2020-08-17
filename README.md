@@ -24,7 +24,7 @@ ls my_submission
 ```
 
 ### Working on the assignment
-Follow the instructions in the assignments README.md file to solve, build, and test your assignment. You may commit and push your changes to the repository at any time. The last commit pushed **before** the assignment's deadline is considered your final submission. 
+Follow the instructions in the assignment's README.md file to solve, build, and test your assignment. You may commit and push your changes to the repository at any time. The last commit pushed **before** the assignment's deadline is considered your final submission. 
 
 **Important:** After the deadline, your push access to the repository will be automatically revoked and you will not be able to perform any further modifications.
 
