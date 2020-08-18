@@ -41,7 +41,7 @@ git push -u origin master
 ```
 
 ### Interacting with the TAs
-GitHub classroom will create a pull request in your repository titled 'Feedback' that allows you to ask questions and receive feedback on your progress from the course TAs. **Do not close or merge this pull request**.
+If you're facing problems or have any questions, feel free to open an issue in your repository and tag your TA(s).
 
 ## IDEs
 Feel free to use any IDE to work on your assignment. Many IDEs such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) have built-in support for git. 
