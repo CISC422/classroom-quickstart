@@ -42,7 +42,7 @@ git push -u origin master
 ```
 
 ### Interacting with the TAs
-If you're facing problems or have any questions, feel free to open an issue in your repository and tag your TA(s).
+If you're facing problems or have any questions, feel free to open an issue in your repository and tag the course TAs (@CISC422/tas).
 
 ## IDEs
 Feel free to use any IDE to work on your assignment. Many IDEs such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) have built-in support for git. 
