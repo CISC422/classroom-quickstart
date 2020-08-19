@@ -27,7 +27,7 @@ ls my_submission
 ### Working on the assignment
 Follow the instructions in the assignment's README.md file to solve, build, and test your assignment. You may commit and push your changes to the repository at any time. The last commit pushed to the **master** branch **before** the assignment's deadline is considered your final submission.
 
-**Important:** After the deadline, your push access to the repository will be automatically revoked and you will not be able to perform any further modifications. However, you can still fork a copy of the repository into your own account and perform modifications there. Note that any changes past the deadline won't be considered unless a valid reason is submitted and approved by the course instructor.
+**Important:** After the deadline, your push access to the repository will be automatically revoked and *you will not be able to perform any further modifications*. However, you can still fork a copy of the repository into your own account and perform any modifications there. Note that changes past the deadline won't be considered unless a *valid reason is submitted and approved by the course instructor*.
 
 [![Watch the video](https://img.youtube.com/vi/1l_pffeR7u8/hqdefault.jpg)](https://youtu.be/1l_pffeR7u8)
 
