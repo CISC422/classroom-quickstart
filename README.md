@@ -3,7 +3,6 @@
 ### Requirements
 - You will need a Github account. If you don't have one already, [signup here](https://github.com/join).
 - [Git](https://git-scm.com/downloads) to clone and submit the assignment. On Windows, we recommend [Git Bash](https://gitforwindows.org).
-- [Java](https://www.oracle.com/ca-en/java/technologies/javase/javase-jdk8-downloads.html) to build and solve the assignment.
 
 ### Accepting an assignment
 Your instructor will share a link to the assignment with you. The video below demonstrates how to accept the assignment and access the repository.
