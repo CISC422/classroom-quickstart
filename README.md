@@ -44,8 +44,7 @@ git push -u origin master
 If you're facing problems or have any questions, feel free to open an issue in your repository and tag the course TAs.
 
 ## IDEs
-Feel free to use any IDE to work on your assignment. Many IDEs such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) have built-in support for git. 
-Many assignments in this course uses the [Gradle](https://gradle.org/) build system. Make sure your IDE supports Gradle projects.
+An IDE is not required to complete this assignment. However, if you choose to use one, make sure it has support for Gradle. Many IDEs such as [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) supports Gradle and have built-in support for git.
 
 ### IntelliJ IDEA
 The video below demonstrates how to clone, build, and run an example Gradle-based assignment using IntelliJ IDEA.
