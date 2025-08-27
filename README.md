@@ -44,7 +44,7 @@ git push -u origin master
 If you're facing problems or have any questions, feel free to open an issue in your repository and tag the course TAs.
 
 ## IDEs
-An IDE is not required to complete this assignment. However, if you choose to use one make sure it has support for Gradle. Many IDEs such as [VSCode](https://https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) support Gradle and have built-in support for git.
+An IDE is not required to complete this assignment. However, if you choose to use one make sure it has support for Gradle. Many IDEs such as [VSCode](https://code.visualstudio.com), [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [Eclipse](https://www.eclipse.org/downloads/) support Gradle and have built-in support for git.
 
 ### IntelliJ IDEA
 The video below demonstrates how to clone, build, and run a sample Gradle-based assignment using IntelliJ IDEA.
